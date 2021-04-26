@@ -1,0 +1,123 @@
+@media screen and (max-width:1200px){
+    
+    .row{
+        margin: 0 15px;
+    }
+}
+@media screen and (max-width:1024px){
+    .mobile-manu span{
+        display: block;
+        margin-top: 0;
+    }
+    .logo{
+        margin-top: 15px;
+    }
+    .manu-item{
+        display: none;
+    }
+    nav.uk-sticky-fixed .logo{
+        margin: 10px 0;
+    }
+    .header-item{
+        width: 90%
+    }
+    html{
+        font-size: 8px;
+    }
+    h1{
+        font-size: 390%;
+    }
+    address, dl, fieldset, figure, ol, p, pre, ul{
+        margin: 0;
+        padding: 0;
+    }
+    .client-photo{
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+    .clint-review{
+        width: 100%;
+        text-align: center;
+    }
+    .contact-section form{
+        width: 100%;
+        margin-left: 0;
+    }
+    
+}
+
+
+@media screen and (max-width:980px){
+    .span_1_of_4{
+        width: 49.2%;
+    }
+    .span_1_of_4:nth-child(3){
+        margin-left: 0;
+    }
+    html{
+        font-size: 10px;
+    }
+    h1{
+        font-size: 370%;
+    }
+}
+@media screen and (max-width:768px){
+    header{
+        height: 65vh;
+    }
+    h1{
+        font-size: 283%;
+    }
+    .little-des{
+        width: 100%;
+        margin-left: 0;
+    }
+    h2{
+        font-size: 350%;
+    }
+    .footer-section li{
+        margin: 0 15px;
+    }
+}
+@media screen and (max-width:480px){
+    header{
+        height: 60vh;
+    }
+    h1{
+        font-size: 160%;
+    }
+    h2{
+        font-size: 199%;
+    }
+    .span_1_of_4{
+        width: 100%;
+    }
+    .footer-section li a{
+        font-size: 150%;
+    }
+    .testimonial .box:nth-child(3), 
+    .testimonial .box:nth-child(4){
+        margin-top: 40px;
+    }
+    .portfolio-filter button{
+        margin: 5px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
